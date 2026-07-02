@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DataflowPreps.Core/DataflowPreps.Core.csproj" />
+    <Project Path="src/DataflowPreps.Demo/DataflowPreps.Demo.csproj" />
+  </Folder>
+</Solution>
